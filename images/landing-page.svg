@@ -4,8 +4,8 @@
     <title>landing-page</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <rect id="path-1" x="0" y="1" width="426" height="39" rx="19.5"></rect>
-        <filter x="-1.6%" y="-12.8%" width="103.3%" height="135.9%" filterUnits="objectBoundingBox" id="filter-2">
+        <rect id="path-1" x="0" y="0" width="426" height="45" rx="19.5"></rect>
+        <filter x="-1.6%" y="-11.1%" width="103.3%" height="131.1%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
@@ -48,13 +48,13 @@
             </text>
         </g>
         <g id="step-1" transform="translate(299.000000, 497.000000)">
-            <g id="account" transform="translate(0.000000, 31.000000)">
+            <g id="account" transform="translate(0.000000, 33.000000)">
                 <g id="Rectangle" opacity="0.5">
                     <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                    <rect stroke="#A70000" stroke-width="1" stroke-linejoin="square" fill="#000000" fill-rule="evenodd" x="0.5" y="1.5" width="425" height="38" rx="19"></rect>
+                    <rect stroke="#A70000" stroke-width="1" stroke-linejoin="square" fill="#000000" fill-rule="evenodd" x="0.5" y="0.5" width="425" height="44" rx="19.5"></rect>
                 </g>
                 <text id="eoskickbacks" font-family="Arial-BoldMT, Arial" font-size="33" font-weight="bold" letter-spacing="15.6750059" fill="#7ED321">
-                    <tspan x="18" y="30">eoskickbacks</tspan>
+                    <tspan x="18" y="33">eoskickbacks</tspan>
                 </text>
             </g>
             <text id="PROXY-VOTES-TO-ACCOU" font-family="ArialMT, Arial" font-size="16" font-weight="normal" letter-spacing="5" fill="#FFFFFF">
