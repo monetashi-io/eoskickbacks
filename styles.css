@@ -2,6 +2,10 @@
 
 /* Boiler plate CSS */
 
+body {
+    background-color: #ccc;
+}
+
 .container {
     display: flex;
     flex-direction: column;
