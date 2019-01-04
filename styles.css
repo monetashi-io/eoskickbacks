@@ -13,6 +13,9 @@ body {
     /* max-height:15cm; */
     /* max-width:15cm; */
     margin: 0 auto;
+
+    position: relative;
+    overflow: hidden;
 }
 
 .svg-page {
@@ -24,3 +27,21 @@ body {
     height: 100%;
 }
 
+.bubble-0, .bubble-1 {
+    position: absolute;
+    background: url(images/bubble.svg) no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    opacity: 0.2;
+}
+
+.bubble-0 {
+  bottom: -150px;
+  left: -150px;
+}
+
+.bubble-1 {
+  top: -150px;
+  right: -150px;
+}
