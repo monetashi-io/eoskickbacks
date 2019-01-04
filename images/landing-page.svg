@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>landing-page</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="1" width="426" height="39" rx="19.5"></rect>
+        <filter x="-1.6%" y="-12.8%" width="103.3%" height="135.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="62.8314611%" id="radialGradient-3">
+            <stop stop-color="#FFC442" offset="0%"></stop>
+            <stop stop-color="#FF5100" offset="100%"></stop>
+        </radialGradient>
+        <path d="M37.6,0 L11.2099379,35.9083333 L0,88.7283333 L37.6,111.2 L75.2,88.7283333 L63.9900621,35.6766667 L37.6,0 Z M17.2819876,36.835 L37.6,9.26666667 L57.9180124,36.835 L37.6,97.3 L17.2819876,36.835 Z M60.7204969,45.87 L69.1279503,86.18 L41.5701863,102.628333 L60.7204969,45.87 Z M6.07204969,86.18 L14.4795031,45.87 L33.6298137,102.628333 L6.07204969,86.18 Z" id="path-4"></path>
+        <filter x="-7.3%" y="-3.1%" width="114.6%" height="109.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="step-3" transform="translate(325.000000, 807.000000)" fill="#FFFFFF" font-family="ArialMT, Arial" font-size="16" font-weight="normal" letter-spacing="5">
+            <text id="REVEIVE-DAILY-98%-KI">
+                <tspan x="0" y="14">REVEIVE DAILY 98% KICKBACK</tspan>
+                <tspan x="370.398438" y="14">!</tspan>
+            </text>
+        </g>
+        <g id="step-3-oval" transform="translate(488.000000, 741.000000)">
+            <circle id="Oval" fill="#FFBA3C" cx="24" cy="24" r="24"></circle>
+            <text id="3" font-family="CourierNewPS-BoldMT, Courier New" font-size="28.8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="15.3585938" y="32">3</tspan>
+            </text>
+        </g>
+        <g id="step-2" transform="translate(429.000000, 673.000000)" fill="#FFFFFF" font-family="ArialMT, Arial" font-size="16" font-weight="normal" letter-spacing="5">
+            <text id="WAIT-FOR-24H">
+                <tspan x="0" y="14">WAIT FOR 24</tspan>
+                <tspan x="154.570312" y="14">H</tspan>
+            </text>
+        </g>
+        <g id="step-2-oval" transform="translate(488.000000, 606.000000)">
+            <circle id="Oval" fill="#FF841D" cx="24" cy="24" r="24"></circle>
+            <text id="2" font-family="CourierNewPS-BoldMT, Courier New" font-size="28.8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="15.3585938" y="32">2</tspan>
+            </text>
+        </g>
+        <g id="step-1" transform="translate(299.000000, 497.000000)">
+            <g id="account" transform="translate(0.000000, 31.000000)">
+                <g id="Rectangle" opacity="0.5">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke="#A70000" stroke-width="1" stroke-linejoin="square" fill="#000000" fill-rule="evenodd" x="0.5" y="1.5" width="425" height="38" rx="19"></rect>
+                </g>
+                <text id="eoskickbacks" font-family="Arial-BoldMT, Arial" font-size="33" font-weight="bold" letter-spacing="15.6750059" fill="#7ED321">
+                    <tspan x="18" y="30">eoskickbacks</tspan>
+                </text>
+            </g>
+            <text id="PROXY-VOTES-TO-ACCOU" font-family="ArialMT, Arial" font-size="16" font-weight="normal" letter-spacing="5" fill="#FFFFFF">
+                <tspan x="49" y="14">PROXY VOTES TO ACCOUN</tspan>
+                <tspan x="367.390625" y="14">T</tspan>
+            </text>
+        </g>
+        <g id="step-1-oval" transform="translate(488.000000, 431.000000)">
+            <circle id="Oval" fill="#FF7112" cx="24" cy="24" r="24"></circle>
+            <text id="1" font-family="CourierNewPS-BoldMT, Courier New" font-size="28.8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="16.1585938" y="32">1</tspan>
+            </text>
+        </g>
+        <g id="earn-daily-kickbacks-right" transform="translate(130.000000, 308.000000)" fill="#FFFFFF" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" letter-spacing="15">
+            <text id="EARN-DAILY-KICKBACKS">
+                <tspan x="0" y="14">EARN DAILY KICKBACKS RIGHT NOW!</tspan>
+            </text>
+        </g>
+        <g id="eos-kickback-logo" transform="translate(278.000000, 77.000000)">
+            <g id="Group" transform="translate(227.200000, 28.800000)" fill="#FF7A18" font-family="Arial-BoldMT, Arial" font-size="72" font-weight="bold" letter-spacing="4.91999969">
+                <text id="K" transform="translate(32.400000, 40.000000) scale(-1, 1) translate(-32.400000, -40.000000) ">
+                    <tspan x="0" y="65">K</tspan>
+                </text>
+                <text id="B">
+                    <tspan x="64.8" y="65">B</tspan>
+                </text>
+            </g>
+            <text id="Kic" font-family="Arial-BoldMT, Arial" font-size="48" font-weight="bold" letter-spacing="3.27999992" fill="#FFFFFF">
+                <tspan x="156" y="92.6">Kic</tspan>
+            </text>
+            <text id="acks" font-family="Arial-BoldMT, Arial" font-size="48" font-weight="bold" letter-spacing="3.27999992" fill="#FFFFFF">
+                <tspan x="348.8" y="92.6">acks</tspan>
+            </text>
+            <circle id="Oval" stroke="#FFFDFD" stroke-width="8.8" fill="url(#radialGradient-3)" cx="72.8" cy="72.8" r="72.8"></circle>
+            <g id="Eosio_logo" transform="translate(37.600000, 13.600000)" fill-rule="nonzero">
+                <g id="Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                </g>
+            </g>
+            <text id="BLOCK-PRODUCER" font-family="ArialMT, Arial" font-size="12.8" font-weight="normal" letter-spacing="14.0720001" fill="#FFFFFF">
+                <tspan x="160.8" y="115.2">BLOCK PRODUCE</tspan>
+                <tspan x="454.692252" y="115.2">R</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
