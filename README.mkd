@@ -30,8 +30,7 @@ Rewards in ratio.
 
 ## When?
 
-All proxied votes (longer than 24h** will be included at every claim cycle of
-**24h +1 second***.
+All proxied votes (longer than 24h) will be included at every claim cycle of **24h +1 second***.
 
 ## Who? 
 
