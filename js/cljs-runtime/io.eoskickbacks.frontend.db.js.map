@@ -1,1 +1,0 @@
-{"version":3,"sources":["io/eoskickbacks/frontend/db.cljs"],"sourcesContent":["(ns io.eoskickbacks.frontend.db)\n\n(def default-db {:active-page :home})  ;; what gets put into app-db by default.\n"],"mappings":";;AAEA,AAAA,AAAA,AAAA,AAAKA","names":["io.eoskickbacks.frontend.db/default-db"]}
