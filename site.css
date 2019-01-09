@@ -1,3 +1,24 @@
+body {
+  background-color: #ddd;
+}
 
+.navbar .navbar-brand img {
+  width: 80px;
+  margin-right: 4px;
+}
+
+.head-area .logo-wrapper .crypto-logo .crypto-logo-img {
+  position: absolute;
+  left: 28%;
+  top: 30%;
+}
+
+@media (max-width: 575.98px) {
+  .head-area .head-content .logo-wrapper .crypto-logo .crypto-logo-img {
+    width: 80px;
+    left: 27%;
+    top: 29%;
+  }
+}
 
 /*# sourceMappingURL=site.css.map */

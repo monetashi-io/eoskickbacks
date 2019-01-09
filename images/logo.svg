@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="37px" viewBox="0 0 41 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-10.0%" y="-10.0%" width="140.0%" height="140.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-Copy" filter="url(#filter-1)" transform="translate(6.000000, 3.000000)" fill="#FFFFFF">
+            <text id="K-Copy" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN" font-size="12.96" font-weight="normal" letter-spacing="0.431999981">
+                <tspan x="6.048" y="19.64">K</tspan>
+            </text>
+            <text id="B-Copy" transform="translate(19.192000, 15.140000) scale(-1, 1) translate(-19.192000, -15.140000) " font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN" font-size="12.96" font-weight="normal" letter-spacing="0.431999981">
+                <tspan x="14.192" y="19.64">B</tspan>
+            </text>
+            <path d="M14.0539159,29.808 C6.21819433,29.3667809 0,22.8641336 0,14.9071279 C0,7.2609453 5.74188234,0.957717566 13.1433387,0.0854344891 L15.12,1.7603218 L12.9344389,3.61221645 C7.55040168,4.54711093 3.456,9.2483046 3.456,14.9071279 C3.456,21.0078967 8.21490795,25.995616 14.2181559,26.3508268 L12.096,28.1489963 L14.0539159,29.808 Z M16.5658239,29.7401355 L14.688,28.1489963 L17.0160544,26.1763626 C22.3296739,25.1839454 26.352,20.5159227 26.352,14.9071279 C26.352,8.84174824 21.6481424,3.87654235 15.6941879,3.47007747 L17.712,1.7603218 L15.634511,-2.7533531e-14 C23.5264513,0.381427856 29.808,6.90968982 29.808,14.9071279 C29.808,22.5873119 24.0149376,28.9125706 16.5658239,29.7401355 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
